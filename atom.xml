@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>AI 공부 기록 블로그</description>
+    <link>
+    https://conple21.github.io</link>
+    
+      
+      <item>
+        <title>Java Spring을 들어가면서</title>
+        
+          <description>&lt;p&gt;Java Spring을 들어가면서&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 17 Jun 2022 08:24:00 +0900</pubDate>
+        <link>
+        https://conple21.github.io/spring-basic</link>
+        <guid isPermaLink="true">https://conple21.github.io/spring-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Kaggle을 들어가면서</title>
+        
+          <description>&lt;p&gt;Kaggle을 들어가면서&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 17 Jun 2022 08:24:00 +0900</pubDate>
+        <link>
+        https://conple21.github.io/kaggle-basic</link>
+        <guid isPermaLink="true">https://conple21.github.io/kaggle-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Deep learning을 들어가면서</title>
+        
+          <description>&lt;p&gt;Deep learning을 들어가면서&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 17 Jun 2022 08:24:00 +0900</pubDate>
+        <link>
+        https://conple21.github.io/dl-basic</link>
+        <guid isPermaLink="true">https://conple21.github.io/dl-basic</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
